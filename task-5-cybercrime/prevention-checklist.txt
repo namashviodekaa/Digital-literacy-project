@@ -1,0 +1,16 @@
+The 'Stay Safe Online' Checklist
+* Enable Two-Factor Authentication (2FA): Go beyond passwords. Use app-based authenticators (like Google Authenticator or Microsoft Authenticator) for your university email, Instagram, and WhatsApp. This ensures that even if someone steals your password, they can’t get into your account.
+* Verify Official Domains: Always check the URL before entering credentials. Official Indian government sites end in .gov.in and most educational institutions end in .ac.in or .edu.in. Be wary of sites like university-results.com which are often phishing traps.
+* Secure Your WhatsApp: Navigate to Settings > Account > Two-step verification. This prevents "WhatsApp Hijacking," where scammers try to log into your account to ask your contacts for emergency money.
+* Practice "Digital Hygiene" on Public Wi-Fi: Avoid logging into your bank or student portal while using free campus or cafe Wi-Fi. If you must use it, use a reputable VPN to encrypt your connection.
+* Limit App Permissions: Regularly audit your phone settings. Many apps don't need access to your contacts, microphone, or gallery to function. Denying these permissions reduces the risk of data "leakage" to third-party advertisers or malicious actors.
+* Never Share Your UPI PIN to Receive Money: This is the most common UPI scam. Remember: You only enter your PIN to send or pay money, never to receive it. If someone sends you a "QR code to claim a prize," it is a scam.
+* Verify Payee Names on UPI: Before hitting 'Pay' on apps like GPay, PhonePe, or Paytm, double-check the registered name that appears. Scammers often use names similar to official entities (e.g., "ElectricityBillPay" instead of the actual utility board name).
+* Set Social Media to 'Private' During Job Hunts: While LinkedIn should be public, keep your personal Instagram and Facebook private. This prevents "doxing" or bad actors from using your personal photos to create "deepfake" or "catfishing" profiles in your name.
+
+How to Report Cybercrime in India
+If you or someone you know falls victim to a digital scam or online harassment, do not hesitate to report it immediately. Speed is especially critical in financial fraud to "freeze" the stolen funds.
+* National Cyber Crime Reporting Portal: Visit cybercrime.gov.in to file a complaint online.
+* National Helpline Number: Dial 1930. This is a dedicated 24/7 helpline for reporting financial cyber fraud.
+Pro-Tip: If you lose money to a UPI scam, reporting it within the "Golden Hour" (the first 2 hours) via the 1930 helpline significantly increases the chances of the police being able to block the transaction before the scammer withdraws the cash.
+
